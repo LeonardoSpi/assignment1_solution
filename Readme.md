@@ -6,8 +6,8 @@ This package was developed as a solution of the first assignment of the Research
 
 ### Licence
 
-**Author: Leonardo Spinelli />
-Affiliation: University of Genoa <br />
+**Author: Leonardo Spinelli<br/>
+Affiliation: University of Genoa<br />
 Maintainer: Leonardo Spinelli, leonardo.spinelli91@gmail.com**
 
 The assignment1_solution package has been tested under ROS Melodic on Ubuntu 16.04.6 LTS.
