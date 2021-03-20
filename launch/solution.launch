@@ -1,0 +1,5 @@
+<launch>
+	<node name="stage" pkg="stage_ros" type="stageros" args="$(find assignment1)/world/exercise.world" />
+	<node name="server" pkg="assignment1_solution" type="goal_server.py" />
+	<node name="client" pkg="assignment1_solution" type="goal_client.py" respawn= "true" output="screen" />
+</launch>
