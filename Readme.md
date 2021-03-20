@@ -17,7 +17,7 @@ The assignment1_solution package has been tested under ROS Melodic on Ubuntu 16.
 To build from source, clone the latest version from this repository into your catkin workspace and compile the package using:
 
 	cd catkin_workspace/src
-	git clone 
+	git clone https://github.com/LeonardoSpi/assignment1_solution
 	cd ../
 	catkin_make
 
