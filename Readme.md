@@ -21,6 +21,16 @@ To build from source, clone the latest version from this repository into your ca
 	cd ../
 	catkin_make
 
+Remember to make scripts executable, in the scripts folder use the following commands:
+
+	chmod +x goal_client.py
+	chmod +x goal_client_base.py
+	chmod +x goal_client_server.py
+	
+Check files permission with:
+	
+	ls -l
+
 ## Usage
 
 To run the solution you can use the solution.launch file:
